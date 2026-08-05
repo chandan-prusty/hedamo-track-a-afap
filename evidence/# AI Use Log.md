@@ -12,7 +12,7 @@ Artificial Intelligence was used as a productivity and ideation tool throughout 
 |------|---------|
 | ChatGPT (GPT-5.5) | UX research support, product thinking, content refinement, documentation, decision review |
 | Lovable | Frontend UI generation, React component generation, rapid prototyping |
-| GitHub Copilot *(if used, otherwise remove)* | Minor code completion and refactoring |
+| GitHub Copilot | Minor code completion and refactoring |
 
 ---
 

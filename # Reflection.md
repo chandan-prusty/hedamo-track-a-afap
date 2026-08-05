@@ -10,16 +10,16 @@ This project was completed as part of the AFAP Track A assessment for HEDAMO. Th
 
 | Activity | Approx. Time |
 |----------|--------------|
-| Researching HEDAMO | 2 hours |
-| Common HEDAMO Diagnostic | 1.5 hours |
-| UX Analysis & Planning | 1 hour |
-| Homepage Redesign | 5 hours |
-| Producer Status Flow Design | 2 hours |
-| Product Backlog Design | 1 hour |
-| Testing & Refinements | 2 hours |
-| Documentation & Evidence Pack | 3 hours |
+| Researching HEDAMO | 30 mins |
+| Common HEDAMO Diagnostic | 1 hours |
+| UX Analysis & Planning | 30 mins |
+| Homepage Redesign | 1.5 hours |
+| Producer Status Flow Design | 30 mins |
+| Product Backlog Design |  30 mins |
+| Testing & Refinements | 30 mins |
+| Documentation & Evidence Pack | 1.5 hours |
 
-**Total Time:** ~17.5 hours
+**Total Time:** ~6.5 hours
 
 ---
 

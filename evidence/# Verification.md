@@ -12,13 +12,13 @@ This document records the verification process used to evaluate the HEDAMO Track
 
 Netlify
 
-> https://YOUR-NETLIFY-LINK.netlify.app
+> https://hedamoapp.netlify.app/
 
 ### Repository
 
 GitHub
 
-> https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> https://github.com/chandan-prusty/hedamo-product-thinking.git
 
 ---
 
@@ -46,13 +46,7 @@ within the first screen.
 
 ---
 
-## Screenshot
 
-**Insert Screenshot 1 here**
-
-📷 **Homepage (Hero Section)**
-
-> Place a full-width screenshot of the redesigned homepage hero here.
 
 ---
 
@@ -76,13 +70,6 @@ Verify that producers can easily understand their application progress.
 
 ---
 
-## Screenshot
-
-**Insert Screenshot 2 here**
-
-📷 **Producer Application Dashboard**
-
-> Show the application cards and status timeline.
 
 ---
 
@@ -110,14 +97,6 @@ P5
 
 ---
 
-## Screenshot
-
-**Insert Screenshot 3 here**
-
-📷 **Product Backlog Board**
-
-> Include the backlog with priorities.
-
 ---
 
 # 5. Responsive Testing
@@ -130,26 +109,6 @@ The prototype was tested on multiple viewport sizes.
 | Laptop | ✅ Passed |
 | Tablet | ✅ Passed |
 | Mobile | ✅ Passed |
-
----
-
-## Screenshots
-
-**Insert Screenshot 4 here**
-
-📷 Desktop View
-
----
-
-**Insert Screenshot 5 here**
-
-📷 Tablet View
-
----
-
-**Insert Screenshot 6 here**
-
-📷 Mobile View
 
 ---
 
@@ -231,24 +190,6 @@ No backend services were included as part of this prototype.
 | Create prioritised roadmap | ✅ Achieved |
 | Preserve HEDAMO philosophy | ✅ Achieved |
 
----
-
-# Demo
-
-Demo Video
-
-> Insert your Loom or Google Drive video link here.
-
-Maximum duration:
-
-3 minutes
-
-The demo includes:
-
-- Homepage redesign
-- Producer application status flow
-- Product backlog
-- Responsive behaviour
 
 ---
 
